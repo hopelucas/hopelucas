@@ -14,7 +14,7 @@ You can get hold of me at hopelucas17@gmail.com!
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelucas&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelucas&theme=dracula) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopelucas&theme=dracula" />
 ![Pineapple Pattern Tumblr Banner](https://user-images.githubusercontent.com/88760123/142361821-c026edfd-476f-4418-8daf-9f9b7dc7f832.png)
 
 
