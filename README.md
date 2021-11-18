@@ -15,6 +15,21 @@ You can get hold of me at hopelucas17@gmail.com!
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelucas&theme=dracula)
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://au.linkedin.com/in/hope-lucas-ba38b5102
+
 ![Pineapple Pattern Tumblr Banner](https://user-images.githubusercontent.com/88760123/142361821-c026edfd-476f-4418-8daf-9f9b7dc7f832.png)
 
 
