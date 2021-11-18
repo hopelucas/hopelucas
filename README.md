@@ -12,7 +12,7 @@ If you'd like access to any of my other 42 projects, let me know! Subscribe and 
 
 You can get hold of me at hopelucas17@gmail.com!
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 ![Pineapple Pattern Tumblr Banner](https://user-images.githubusercontent.com/88760123/142361821-c026edfd-476f-4418-8daf-9f9b7dc7f832.png)
 
