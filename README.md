@@ -8,7 +8,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 
 ### Current Projects
 
-I'm currently working on: ft_printf, learning to rebuild the printf function from scratch.
+I'm currently working on: get_next_line, learning to check for the next line of code available (as of 29/11/2021).
 
 ### Get in touch
 
