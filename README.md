@@ -2,6 +2,9 @@
 
 ## About Me
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+
+
 I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but have familiarity with Java, HTML, Python and CSS. Before I begun studying programming I recieved my Honours in Counterterrorism, and worked for the State Government dealing with criminal histories. Nowadays, my focus is geared towards the security sector and creating fun, stupid projects in my free time.
 
 ## Coding Ethos
@@ -19,8 +22,6 @@ I'm currently working on: Minitalk, a server-to-client program sending bits in a
 If you'd like access to any of my other 42 projects, let me know! Subscribe and I'll upload my work as I do it. A lot of my code is refined from other codes I've found, and taken to fit the current norminette and moulinette standard.
 
 You can get hold of me at hopelucas17@gmail.com!
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopelucas&theme=dracula)
 
