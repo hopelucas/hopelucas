@@ -2,15 +2,15 @@
 ![Pineapple Pattern Tumblr Banner](https://user-images.githubusercontent.com/88760123/142361411-d7e3eaef-568a-4c37-ab16-991446ffe92e.png)
 
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but have familiarity with Java, HTML, Python and CSS. Before I begun studying programming I recieved my Honours in Counterterrorism, and worked for the State Government dealing with criminal histories. Nowadays, my focus is geared towards the security sector and creating fun, stupid projects in my free time.
 
-### Current Projects
+## Current Projects
 
 I'm currently working on: get_next_line, learning to check for the next line of code available (as of 29/11/2021).
 
-### Get in touch
+## Get in touch
 
 If you'd like access to any of my other 42 projects, let me know! Subscribe and I'll upload my work as I do it. A lot of my code is refined from other codes I've found, and taken to fit the current norminette and moulinette standard.
 
