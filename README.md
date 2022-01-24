@@ -2,7 +2,7 @@
 
 ## About Me
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 
 
 I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but have familiarity with Java, HTML, Python and CSS. Before I begun studying programming I recieved my Honours in Counterterrorism, and worked for the State Government dealing with criminal histories. Nowadays, my focus is geared towards the security sector and creating fun, stupid projects in my free time.
