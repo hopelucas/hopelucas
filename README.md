@@ -15,7 +15,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 
 ## Current Projects
 
-I'm currently working on: Minitalk, a server-to-client program sending bits in a virtual environment.
+I'm currently working on: Fract-ol, recreating and manipulating fractals, and Push-Swap - sorting data in a stack using the lowest possible number of actions.
 
 ## Get in touch
 
