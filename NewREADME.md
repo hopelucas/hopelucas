@@ -6,7 +6,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Project`
 
-**Name:** ![](https://img.shields.io/badge/cursus-push%20swap-e48ba1?style=for-the-badge&logo=42)
+![](https://img.shields.io/badge/cursus-push%20swap-e48ba1?style=for-the-badge&logo=42)
 
 **Description:**
 
