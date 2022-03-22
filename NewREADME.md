@@ -7,6 +7,6 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Project`
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Languages & Tools`
-![image](https://user-images.githubusercontent.com/88760123/159400795-7941ab6a-2057-4bf8-80d0-59bef1e05c39.png)
+![Bright_Badge_Logo_Etsy_Shop_Icon-removebg-preview](https://user-images.githubusercontent.com/88760123/159401010-74301be0-011f-4529-9da7-6bd0eb751001.png =250x250)
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
