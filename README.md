@@ -21,21 +21,12 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 
 **Documentation:**
 
-## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Completed Projects`
-![](https://img.shields.io/badge/cursus-piscine-e48ba1?style=for-the-badge&logo=42) Four week coding bootcamp
-
-![](https://img.shields.io/badge/cursus-libft-e48ba1?style=for-the-badge&logo=42) Creating a standard library in C
-
-![](https://img.shields.io/badge/cursus-printf-e48ba1?style=for-the-badge&logo=42) Re-creating the printf function
-
-
-![](https://img.shields.io/badge/cursus-getnextline-e48ba1?style=for-the-badge&logo=42) Get the next line of a file descriptor
-
-
-
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Languages & Tools`
 <img src="https://user-images.githubusercontent.com/88760123/159401454-da0a315e-bd84-4f40-a966-4967770d38bd.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159401772-1896ff26-6fa6-424f-8466-f6ee1722a618.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159403618-bbabf915-238d-4048-8dbf-2dcc99c0e293.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159403999-31a3b076-0793-402d-b6e8-13fe96c85840.png" width="48">
 
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
+
+![____httpsimg shields iobadgecursus-libft-e48ba1style_for-the-badge_logo_42_-removebg-preview](https://user-images.githubusercontent.com/88760123/159417471-7be182be-1630-49dd-8ab6-5ec061684dc4.png)
+
