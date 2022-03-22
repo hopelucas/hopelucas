@@ -2,8 +2,8 @@
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `About Me`
 
-## Current Project
+## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Project`
 
-## Languages & Tools
+## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Languages & Tools`
 
-## Connect
+## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
