@@ -22,7 +22,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 **Documentation:**
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Completed Projects`
-![](https://img.shields.io/badge/cursus-piscine-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-libft-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-printf-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-get next line-e48ba1?style=for-the-badge&logo=42)
+![](https://img.shields.io/badge/cursus-piscine-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-libft-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-printf-e48ba1?style=for-the-badge&logo=42) ![](https://img.shields.io/badge/cursus-getnextline-e48ba1?style=for-the-badge&logo=42)
 
 
 
