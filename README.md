@@ -28,5 +28,4 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
 
-<img src="https://user-images.githubusercontent.com/88760123/159417471-7be182be-1630-49dd-8ab6-5ec061684dc4.png" width="48">
-<img src="https://user-images.githubusercontent.com/88760123/159418090-ab3e326e-b74d-4684-859a-b9786d3872f6.png" width="48">
+<img src="https://user-images.githubusercontent.com/88760123/159417471-7be182be-1630-49dd-8ab6-5ec061684dc4.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159418090-ab3e326e-b74d-4684-859a-b9786d3872f6.png" width="48">
