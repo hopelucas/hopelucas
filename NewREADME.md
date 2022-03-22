@@ -7,6 +7,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Project`
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Languages & Tools`
-<img src="https://user-images.githubusercontent.com/88760123/159401454-da0a315e-bd84-4f40-a966-4967770d38bd.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159401772-1896ff26-6fa6-424f-8466-f6ee1722a618.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159403618-bbabf915-238d-4048-8dbf-2dcc99c0e293.png" width="48">
+<img src="https://user-images.githubusercontent.com/88760123/159401454-da0a315e-bd84-4f40-a966-4967770d38bd.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159401772-1896ff26-6fa6-424f-8466-f6ee1722a618.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159403618-bbabf915-238d-4048-8dbf-2dcc99c0e293.png" width="48"><img src="https://user-images.githubusercontent.com/88760123/159403999-31a3b076-0793-402d-b6e8-13fe96c85840.png" width="48">
+
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
