@@ -2,13 +2,13 @@
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `About Me`
 
-I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but have familiarity with Java, HTML, Python and CSS. Before I begun studying programming I recieved my Honours in Counterterrorism, and worked for the State Government dealing with criminal histories. Nowadays, my focus is geared towards the security sector and creating fun, stupid projects in my free time.
+I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42. Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Projects`
 
 ![](https://img.shields.io/badge/cursus-push%20swap-e48ba1?style=for-the-badge&logo=42)
 
-**Description:**
+**Description:** Swapping bits!
 
 **Repository:**
 
@@ -17,7 +17,7 @@ I'm Hope, 26, and I'm a programmer at 42 Adelaide! I mostly work in C code, but 
 ![](https://img.shields.io/badge/cursus-fractol-e48ba1?style=for-the-badge&logo=42)
 
 
-**Description:**
+**Description:** Generate and create fractals using mandlebrot sets.
 
 **Documentation:**
 
