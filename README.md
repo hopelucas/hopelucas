@@ -29,7 +29,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopelucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Resources`
-- Making Github pretty (how'd you make yours fancy, Hope?)
+- Making [Github pretty](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (how'd you make yours fancy, Hope?)
 - The best [42 cursus tester](https://github.com/hopelucas/francinette) I've found
 - A guide to git and pushing
 
