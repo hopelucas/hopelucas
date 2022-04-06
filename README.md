@@ -28,12 +28,11 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Statistics`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopelucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
-
-<a href="mailto:hopelucas17@gmail.com">![hopelucas17@gmail.com](https://img.shields.io/badge/Gmail-e48ba1?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-e48ba1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Resources`
 - Making Github pretty (how'd you make yours fancy, Hope?)
 - The best 42 cursus tester I've found
 - A guide to git and pushing
+
+## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
+
+<a href="mailto:hopelucas17@gmail.com">![hopelucas17@gmail.com](https://img.shields.io/badge/Gmail-e48ba1?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-e48ba1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
