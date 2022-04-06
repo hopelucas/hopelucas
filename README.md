@@ -30,7 +30,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Resources`
 - Making Github pretty (how'd you make yours fancy, Hope?)
-- The best 42 cursus tester I've found
+- The best [42 cursus tester](https://github.com/hopelucas/francinette) I've found
 - A guide to git and pushing
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
