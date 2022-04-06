@@ -10,7 +10,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 
 **Description:** Swapping bits!
 
-**Repository:**
+**Repository:** [42-Push-Swap](https://github.com/hopelucas/42-Push-Swap)
 
 **Documentation:**
 
@@ -31,7 +31,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Resources`
 - Making [Github pretty](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (how'd you make yours fancy, Hope?)
 - The best [42 cursus tester](https://github.com/hopelucas/francinette) I've found
-- A guide to git and pushing
+- Learn to use [Git](https://docs.github.com/en/get-started/using-git/about-git)
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
 
