@@ -33,6 +33,7 @@ I'm Hope, 26, and I'm a [Pega Architect](https://www.pega.com/) at [Accenture Ad
 - The best [42 cursus tester](https://github.com/hopelucas/francinette) I've found
 - Learn to use [Git](https://docs.github.com/en/get-started/using-git/about-git)
 - My favourite VSCode / Vim theme, [Dracula](https://github.com/dracula/dracula-theme)
+- Productivity powered by [Notion](https://www.notion.so/)
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Connect`
 
