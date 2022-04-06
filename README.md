@@ -12,7 +12,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 
 **Repository:** [42-Push-Swap](https://github.com/hopelucas/42-Push-Swap)
 
-**Documentation:**
+**Documentation:** [Take a look.](https://github.com/hopelucas/42-Push-Swap/blob/main/en.subject(1).pdf)
 
 ![](https://img.shields.io/badge/cursus-fractol-e48ba1?style=for-the-badge&logo=42)
 
