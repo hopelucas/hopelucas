@@ -4,7 +4,9 @@
 
 I'm Hope, 26, and I'm a [Pega Architect](https://www.pega.com/) at [Accenture Adelaide](https://www.accenture.com/au-en) and a student at [42](https://www.42adel.org.au/). Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
-## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Projects`
+## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current 42 Projects`
+
+For a Contents page of my 42 projects, [click here](https://github.com/hopelucas/Hopelucas-Contents/blob/main/42-Contents.md)
 
 ![](https://img.shields.io/badge/cursus-push%20swap-e48ba1?style=for-the-badge&logo=42)
 
