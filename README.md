@@ -2,7 +2,7 @@
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `About Me`
 
-I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42. Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
+I'm Hope, 26, and I'm a Pega Architect at [Accenture Adelaide](https://www.accenture.com/au-en) and a student at [42](https://www.42adel.org.au/). Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Current Projects`
 
