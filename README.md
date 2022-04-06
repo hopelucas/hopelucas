@@ -19,7 +19,7 @@ I'm Hope, 26, and I'm a Pega Architect at Accenture Adelaide and a student at 42
 
 **Description:** Generate and create fractals using mandlebrot sets.
 
-**Documentation:**
+**Repository:** [42-Fract-ol](https://github.com/hopelucas/42-Fract-ol)
 
 
 ## ![#e58aa5](https://via.placeholder.com/15/e58aa5/000000?text=+) `Languages & Tools`
