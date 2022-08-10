@@ -1,10 +1,10 @@
 ![Hope Lucas(1)](https://user-images.githubusercontent.com/88760123/159395622-57e1bbf2-fab4-4421-a192-f8f99f59ee8f.png)
 
-!!`About Me`
+!! `About Me`
 
 I'm Hope, 26, and I'm a programmer and [Pega Architect](https://www.pega.com/) at [Accenture Adelaide](https://www.accenture.com/au-en) and a student at [42](https://www.42adel.org.au/). Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
-!!`Current 42 Projects`
+!! `Current 42 Projects`
 
 For a Contents page of my 42 projects, [click here](https://github.com/hopelucas/Hopelucas-Contents/blob/main/42-Contents.md)
 
@@ -36,6 +36,6 @@ For a Contents page of my 42 projects, [click here](https://github.com/hopelucas
 - Learn to use [Git](https://docs.github.com/en/get-started/using-git/about-git)
 - My favourite VSCode / Vim theme, [Dracula](https://github.com/dracula/dracula-theme)
 - Productivity powered by [Notion](https://www.notion.so/)
-`Connect`
+!! `Connect`
 
 <a href="mailto:hopelucas17@gmail.com">![hopelucas17@gmail.com](https://img.shields.io/badge/Gmail-e48ba1?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<LinkedInURL>">![LinkedIn](https://img.shields.io/badge/LinkedIn-e48ba1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
