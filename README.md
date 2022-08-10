@@ -2,7 +2,7 @@
 
 # `About Me`
 
-I'm Hope, 26, and I'm a programmer and [Pega Architect](https://www.pega.com/) at [Accenture Adelaide](https://www.accenture.com/au-en) and a student at [42](https://www.42adel.org.au/). Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
+I'm Hope, 26, and I'm a cyber security consultant, product owner, and a full-time student at 42 Adelaide. I wear many hats, but if you're here - you're probably here to take a look at my 42 github code. Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
 # `Current 42 Projects`
 
