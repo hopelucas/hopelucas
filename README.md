@@ -1,10 +1,10 @@
 ![Hope Lucas(1)](https://user-images.githubusercontent.com/88760123/159395622-57e1bbf2-fab4-4421-a192-f8f99f59ee8f.png)
 
-`About Me`
+!!`About Me`
 
 I'm Hope, 26, and I'm a programmer and [Pega Architect](https://www.pega.com/) at [Accenture Adelaide](https://www.accenture.com/au-en) and a student at [42](https://www.42adel.org.au/). Most of my code is in C, and when it's not written by me, I'll provide explanations to demonstrate my understanding. Feel free to replicate, copy, use and abuse my code - it's there for you! :D
 
-`Current 42 Projects`
+!!`Current 42 Projects`
 
 For a Contents page of my 42 projects, [click here](https://github.com/hopelucas/Hopelucas-Contents/blob/main/42-Contents.md)
 
@@ -24,13 +24,13 @@ For a Contents page of my 42 projects, [click here](https://github.com/hopelucas
 **Repository:** [42-Fract-ol](https://github.com/hopelucas/42-Fract-ol)
 
 
- `Languages & Tools`
+!! `Languages & Tools`
 [<img src="https://user-images.githubusercontent.com/88760123/159401454-da0a315e-bd84-4f40-a966-4967770d38bd.png" width="48">](https://devdocs.io/c/)[<img src="https://user-images.githubusercontent.com/88760123/159401772-1896ff26-6fa6-424f-8466-f6ee1722a618.png" width="48">](https://docs.python.org/3/)[<img src="https://user-images.githubusercontent.com/88760123/159403618-bbabf915-238d-4048-8dbf-2dcc99c0e293.png" width="48">](https://code.visualstudio.com/)[<img src="https://user-images.githubusercontent.com/88760123/159403999-31a3b076-0793-402d-b6e8-13fe96c85840.png" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
- `Statistics`
+!! `Statistics`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopelucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- `Resources`
+!! `Resources`
 - Making [Github pretty](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (how'd you make yours fancy, Hope?)
 - The best [42 cursus tester](https://github.com/hopelucas/francinette) I've found
 - Learn to use [Git](https://docs.github.com/en/get-started/using-git/about-git)
