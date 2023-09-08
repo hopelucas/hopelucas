@@ -8,21 +8,6 @@ I'm Hope, 27, and I've been a cyber security consultant, product owner, and a fu
 
 For a Contents page of my 42 projects, [click here](https://github.com/hopelucas/Hopelucas-Contents/blob/main/42-Contents.md)
 
-![](https://img.shields.io/badge/cursus-push%20swap-e48ba1?style=for-the-badge&logo=42)
-
-**Description:** Swapping bits!
-
-**Repository:** [42-Push-Swap](https://github.com/hopelucas/42-Push-Swap)
-
-**Documentation:** [Take a look.](https://github.com/hopelucas/42-Push-Swap/blob/main/en.subject(1).pdf)
-
-![](https://img.shields.io/badge/cursus-fractol-e48ba1?style=for-the-badge&logo=42)
-
-
-**Description:** Generate and create fractals using mandlebrot sets.
-
-**Repository:** [42-Fract-ol](https://github.com/hopelucas/42-Fract-ol)
-
 
 # `Languages & Tools`
 [<img src="https://user-images.githubusercontent.com/88760123/159401454-da0a315e-bd84-4f40-a966-4967770d38bd.png" width="48">](https://devdocs.io/c/)[<img src="https://user-images.githubusercontent.com/88760123/159401772-1896ff26-6fa6-424f-8466-f6ee1722a618.png" width="48">](https://docs.python.org/3/)[<img src="https://user-images.githubusercontent.com/88760123/159403618-bbabf915-238d-4048-8dbf-2dcc99c0e293.png" width="48">](https://code.visualstudio.com/)[<img src="https://user-images.githubusercontent.com/88760123/159403999-31a3b076-0793-402d-b6e8-13fe96c85840.png" width="48">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
